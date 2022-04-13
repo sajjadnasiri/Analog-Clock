@@ -28,7 +28,7 @@ If you use pycharm. you should disable the "Show plots of in tool window".
 Go to: <br>
 </p>
 
-> <i> File >Settings >Tolls > Python Scientific </i> 
+> <i> File >Settings >Tolls > Python Scientific </i>  
 and uncheck
 
 > - [ ] Show plots of in tool window <br>
