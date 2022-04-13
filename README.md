@@ -33,16 +33,16 @@ and uncheck
 
 > - [ ] Show plots of in tool window <br>
 
-then click 'OK', and enjoy it.
+then click 'OK', and enjoy it.  
 
----
+
 If you like making an executable and runnable Clock from anywhere 
 (on <b><i> UNIX </i></b> systems), use the following process:
 1. put this ``` #!/usr/bin/env python``` in the first line of MyNewClock.py 
 2. Make the file executable with ```chmod +x myfile.py```
 3. Execute with ```./myfile.py```.
 
-****
+
 >**Added features:**
 >- [X] face image
 >- [ ] hand image
