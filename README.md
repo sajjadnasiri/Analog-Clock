@@ -29,6 +29,8 @@ Go to: <br>
 </p>
 
 > <i> File >Settings >Tolls > Python Scientific </i>  
+
+
 and uncheck
 
 > - [ ] Show plots of in tool window <br>
