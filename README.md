@@ -1,4 +1,4 @@
-# <span style="color:orange;">Make your Analog Clock with python</span>
+# <span style="color:orange;">Analog Clock with python</span>
 
 ---
 ![analog clock with python](https://user-images.githubusercontent.com/51186807/163220161-a414baec-8fd0-4965-811e-c11537e8a740.gif)
